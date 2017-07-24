@@ -6,5 +6,5 @@
     $db_passwd = "Q0efpcCr";
 
 // リダイレクトする際の自サイトの情報
-    $url = "http://cpmy85r-ad1-app000.c4sa.net/shumit/Shumit!" ;
+    $url = "https://github.com/Chuiru/Shumit.git" ;
     
